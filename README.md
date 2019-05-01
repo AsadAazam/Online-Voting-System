@@ -1,2 +1,2 @@
 # Online-Voting-System
-online voting system using java servlet and jdbc(mysql)
+online voting system using java (servlet), jdbc(mysql) ,html and css
